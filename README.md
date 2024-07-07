@@ -1,13 +1,19 @@
 ## Zane Yuzheng Wu 
 (587)545-1013 ● Calgary, AB ● zane.wu@ucalgary.ca 
+
 ● ca.linkedin.com/in/zane-wu-39b3562aa/      ● https://github.com/dongdongdong0
 
 ### Summary
 •	Skills in Python, NumPy, Pandas, scikit-learn, R, SQL, Tableau, Power BI, Git, Docker, Apache Airflow, Apache Spark, Apache Kafka, Cassandra, AWS s3 etc. 
+
 •	Experienced with data pipelines developing, data collecting and wrangling, database designing and normalization, data modeling and analysis, statistics, data visualization and presentation, etc.
+
 •	Strong foundation in statistics with experience applying statistical machine learning techniques, including linear regression, logistic regression, k-means clustering, KNN, PCA, SVM, etc. Proven ability to develop statistical models.
+
 •	Experienced analyst, formerly employed at top manufacturing companies in China, with multiple manufacturing project research experiences. Adept at logical thinking, structure writing, project management. Accomplished in policy and industry research.
+
 •	Strong verbal and written communication skills. Competent in facilitating group discussions and achieving consensus.
+
 •	Possesses a positive outlook and a strong willingness to undertake new challenges.
 
 ### Education
